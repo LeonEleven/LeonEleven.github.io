@@ -1,0 +1,272 @@
+Uri: http://api.map.baidu.com/api?v=2.0&ak=mSDOftolYEZaGBZlnDFHB1OQk9G3oxuY
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\api
+Content Type: text/javascript
+
+Uri: http://api.map.baidu.com/library/SearchInfoWindow/1.4/src/iw_bg.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\library\SearchInfoWindow\1.4\src\iw_bg.png
+Content Type: image/png
+
+Uri: http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/iw_close.gif
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\library\SearchInfoWindow\1.5\src\iw_close.gif
+Content Type: image/gif
+
+Uri: http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/phone.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\library\SearchInfoWindow\1.5\src\phone.png
+Content Type: image/png
+
+Uri: http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\library\SearchInfoWindow\1.5\src\SearchInfoWindow_min.css
+Content Type: text/css
+
+Uri: http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\library\SearchInfoWindow\1.5\src\SearchInfoWindow_min.js
+Content Type: application/javascript
+
+Uri: http://haxpower.com/about.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\about.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/contact.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\contact.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/css/css.css
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\css\css.css
+Content Type: text/css
+
+Uri: http://haxpower.com/css/idangerous.swiper.css
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\css\idangerous.swiper.css
+Content Type: text/css
+
+Uri: http://haxpower.com/css/swiper.min.css
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://haxpower.com/images/1.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\1.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/a2.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\a2.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/banner1.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\banner1.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/cs_ic.gif
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\cs_ic.gif
+Content Type: image/gif
+
+Uri: http://haxpower.com/images/ewm.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\ewm.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/ewm1.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\ewm1.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/fg.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\fg.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/fw.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\fw.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/gnLhbg.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\gnLhbg.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/gnLhbg_o.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\gnLhbg_o.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/gsjj_img.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\gsjj_img.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/h2.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\h2.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/h3.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\h3.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/h4.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\h4.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/head2-title-bg.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\head2-title-bg.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/hz.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\hz.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/lanrenzhijia.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\lanrenzhijia.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/logo.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\logo.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/more.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\more.png
+Content Type: image/png
+
+Uri: http://haxpower.com/images/pic.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\pic.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/images/tops_bg.png
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\images\tops_bg.png
+Content Type: image/png
+
+Uri: http://haxpower.com/index1.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\index1.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/join.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\join.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/js/idangerous.swiper.min.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\js\idangerous.swiper.min.js
+Content Type: application/javascript
+
+Uri: http://haxpower.com/js/index.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\js\index.js
+Content Type: application/javascript
+
+Uri: http://haxpower.com/js/jquery-1.11.3.min.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\js\jquery-1.11.3.min.js
+Content Type: application/javascript
+
+Uri: http://haxpower.com/js/swiper.min.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://haxpower.com/map.html
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\map.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product.php?type_id=&&type_ids=&&page= 1
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product.php-1.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product.php?type_id=&&type_ids=&&page= 2
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product.php-2.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=36&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=37&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-1.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=38&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-2.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=39&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-3.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=40&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-4.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=41&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-5.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=42&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-6.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=43&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-7.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=44&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-8.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=45&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-9.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=46&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-10.html
+Content Type: text/html
+
+Uri: http://haxpower.com/product_show.php?id=47&type_id=&type_ids=
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\product_show.php-11.html
+Content Type: text/html
+
+Uri: http://haxpower.com/ry.php
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\ry.php.html
+Content Type: text/html
+
+Uri: http://haxpower.com/uploadpic/20201125110150fgex.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110150fgex.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110155c6hm.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110155c6hm.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110200tuay.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110200tuay.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/202011251102055byh.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\202011251102055byh.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110210zwk6.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110210zwk6.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110216ej22.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110216ej22.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110223r9z5.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110223r9z5.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110227vkev.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110227vkev.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110232fh6u.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110232fh6u.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/2020112511023723bf.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\2020112511023723bf.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110241pzrs.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110241pzrs.jpg
+Content Type: image/jpeg
+
+Uri: http://haxpower.com/uploadpic/20201125110246fvzv.jpg
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\uploadpic\20201125110246fvzv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.lanrenzhijia.com/ajaxjs/jquery.min.js
+File Name: C:\Users\lvsy\Desktop\haxpower\haxpower.com\ajaxjs\jquery.min.js
+Content Type: application/javascript
+
